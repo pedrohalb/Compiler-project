@@ -1,0 +1,16 @@
+teste1 - ok ok
+teste2 - ok ok
+teste3 - ok ok
+teste4 - ok erro
+teste5 - ok ok
+teste6 - ok ok
+teste7 - ok ok
+teste8 - ok ok
+teste9 - ok erro
+teste10 - ok erro
+teste11 - ok 
+teste12 - ok 
+teste13 - ok 
+teste14 - ok
+teste15 - ok
+
